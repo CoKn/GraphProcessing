@@ -13,7 +13,7 @@ A modular and extensible graph-based processing pipeline for data transformation
 
 Clone the repository:
 ```sh
-$ git clone https://github.com/yourusername/graph-pipeline.git
+$ git clone https://github.com/CoKn/graph-pipeline.git
 $ cd graph-pipeline
 ```
 
