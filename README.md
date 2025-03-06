@@ -91,6 +91,8 @@ graph = Graph(layers=[input_layer, processing_layer1, processing_layer2, mixer_l
 graph.visualise()
 ```
 
+![img.png](img.png)
+
 ## Logging
 The pipeline includes logging for debugging. Example output:
 ```
